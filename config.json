@@ -1,0 +1,21 @@
+{
+    "num_rounds": 5,
+    "random_seed": 1,
+    "start_date" : "2020-11-01",
+    "history_length" : 3,
+    "max_tries" : 1e6,
+    "names": [
+        "Zaid",
+        "Cole",
+        "Patrick",
+        "Daniel",
+        "Luke P",
+        "Liam",
+        "Hunter",
+        "Dave",
+        "Phil",
+        "Alex",
+        "Luke J",
+        "Keith"
+    ]
+}
